@@ -1,0 +1,15 @@
+HC-05/HC-06
+  TX = 0
+  RX = 1
+
+  Motores da ponte H
+
+a1 = 4;
+a2 = 5;
+a3 = 6;
+a4 = 7;
+
+  Servo motor
+s1.attach(8);
+
+Buzzer = 9;
